@@ -64,6 +64,29 @@ and the scan drum can rotate without obstruction. Then fix the
 cowling and mounting plate to the rover body box with the
 M3 x 16mm screws.
 
+## Battery holder
+
+This is an additional battery holder for securing a 5V 2A power bank
+for the Raspberry Pi. It has been dimensioned to hold a
+RAVPower RP-PB052 22000mAh power bank, but can be easily modified
+for other models.
+
+***Printing:***
+
+- Approx. 4h for a pair of supports.
+
+***Assembly:***
+
+The battery holder comprises a pair of supports and is mounted on the
+side rails of the main body box to the rear of the differential brace.
+You will need to remove a rear body corner to insert 8 M3 square nuts
+into the T-slot into which 8 M3 x 12mm socket head screws will be fixed.
+Insert 4 M3 square nuts into the underside slot of the upper rail and
+4 M3 square nuts into the topside slot of the lower rail.
+
+The first support can be set up flush against the differential brace.
+There should be a gap of approx. 40 mm between the two supports.  
+
 ## License
 
 This software is licensed under the BSD-3-Clause license found in
